@@ -5,34 +5,4 @@
 		"description": "The day we landed on the moon. Thanks to the good folks at NASA.",
 		"image": "/images/1.jpg"
 	},
-	{
-		"id": 2,
-		"name": "New Feb",
-		"description": "The day we landed on the moon. Thanks to the good folks at NASA.",
-		"image": "/images/2.jpg"
-	},
-	{
-		"id": 3,
-		"name": "New Day",
-		"description": "The day we landed on the moon. Thanks to the good folks at NASA.",
-		"image": "/images/3.jpg"
-	},
-	{
-		"id": 4,
-		"name": "New minutes",
-		"description": "The day we landed on the moon. Thanks to the good folks at NASA.",
-		"image": "/images/4.jpg"
-	},
-	{
-		"id": 5,
-		"name": "New second",
-		"description": "The day we landed on the moon. Thanks to the good folks at NASA.",
-		"image": "/images/5.jpg"
-	},
-	{
-		"id": 6,
-		"name": "New second",
-		"description": "The day we landed on the moon. Thanks to the good folks at NASA.",
-		"image": "/images/6.jpg"
-	}
 ]
